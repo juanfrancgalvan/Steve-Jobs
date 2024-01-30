@@ -1,7 +1,7 @@
 :root {
   --white: #ffffff;
-  --lightGray: #eeeeee;
-  --darkGray: #333333;
+  --light-gray: #eeeeee;
+  --dark-gray: #333333;
   --blue: #477ca7;
   --violet: #74638f;
 }
@@ -15,7 +15,7 @@ body {
   font-size: 1.6rem;
   line-height: 1.5;
   text-align: center;
-  color: var(--darkGray);
+  color: var(--dark-gray);
   margin: 0;
 }
 
@@ -40,7 +40,7 @@ a:visited {
   margin: 30px;
   padding: 15px;
   border-radius: 5px;
-  background: var(--lightGray);
+  background: var(--light-gray);
 }
 
 img {
