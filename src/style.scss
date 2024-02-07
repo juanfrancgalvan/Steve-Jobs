@@ -51,7 +51,7 @@ img {
 }
 
 .img-div {
-  background: var(--white);
+  background: var(--light-gray);
   padding: 10px;
   margin: 0;
 }
@@ -81,11 +81,12 @@ blockquote {
   font-style: italic;
   max-width: 545px;
   margin: 0 auto 50px auto;
-  /* text-align: left; */
+  // text-align: left;
 }
 
 .footer-text {
   font-size: 2rem;
+  padding: 1rem;
 }
 
 @media only screen and (width <= 576px) {
